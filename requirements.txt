@@ -1,0 +1,6 @@
+discord.py
+praw
+python-dotenv
+flask
+beautifulsoup4
+requests
